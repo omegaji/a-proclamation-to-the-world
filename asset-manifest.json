@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/a-proclamation-to-the-world/static/css/main.11767055.css",
-    "main.js": "/a-proclamation-to-the-world/static/js/main.365ff3c4.js",
+    "main.css": "/a-proclamation-to-the-world/static/css/main.4f6cc4fd.css",
+    "main.js": "/a-proclamation-to-the-world/static/js/main.614203e6.js",
     "static/js/453.e0549f8d.chunk.js": "/a-proclamation-to-the-world/static/js/453.e0549f8d.chunk.js",
     "static/media/purple-scroll3.png": "/a-proclamation-to-the-world/static/media/purple-scroll3.42b89678fd51028b5613.png",
     "index.html": "/a-proclamation-to-the-world/index.html",
-    "main.11767055.css.map": "/a-proclamation-to-the-world/static/css/main.11767055.css.map",
-    "main.365ff3c4.js.map": "/a-proclamation-to-the-world/static/js/main.365ff3c4.js.map",
+    "main.4f6cc4fd.css.map": "/a-proclamation-to-the-world/static/css/main.4f6cc4fd.css.map",
+    "main.614203e6.js.map": "/a-proclamation-to-the-world/static/js/main.614203e6.js.map",
     "453.e0549f8d.chunk.js.map": "/a-proclamation-to-the-world/static/js/453.e0549f8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11767055.css",
-    "static/js/main.365ff3c4.js"
+    "static/css/main.4f6cc4fd.css",
+    "static/js/main.614203e6.js"
   ]
 }
