@@ -83,7 +83,7 @@ function App() {
        })
        }
        </div>
-      <img src = "/purple-scroll3.png" alt="My scroll" className= "scroll"
+      <img src = "/proclamation-to-the-world/purple-scroll3.png" alt="My scroll" className= "scroll"
       ></img>
     </div>
   );
