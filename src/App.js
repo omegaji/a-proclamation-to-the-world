@@ -1,5 +1,5 @@
 import './App.css';
-
+import scroll from '../src/images/purple-scroll3.png'
 const A_POEM_FOR_MY_LOVE_JINU = {
   0: [
     'A proclamation to the world',
@@ -83,7 +83,7 @@ function App() {
        })
        }
        </div>
-      <img src = "/proclamation-to-the-world/purple-scroll3.png" alt="My scroll" className= "scroll"
+      <img src = {scroll} alt="My scroll" className= "scroll"
       ></img>
     </div>
   );
