@@ -59,7 +59,7 @@ function Poem({text}) {
 
     </span>
     {text}
-    <img src = "/butterfly.png" alt="butterfly" className = "butterfly"></img>
+    <img src = {butterflyImg} alt="butterfly" className = "butterfly"></img>
     </p>;
 }
 
