@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/a-proclamation-to-the-world/static/css/main.11767055.css",
+    "main.js": "/a-proclamation-to-the-world/static/js/main.99a0a4b5.js",
+    "static/js/453.e0549f8d.chunk.js": "/a-proclamation-to-the-world/static/js/453.e0549f8d.chunk.js",
+    "index.html": "/a-proclamation-to-the-world/index.html",
+    "main.11767055.css.map": "/a-proclamation-to-the-world/static/css/main.11767055.css.map",
+    "main.99a0a4b5.js.map": "/a-proclamation-to-the-world/static/js/main.99a0a4b5.js.map",
+    "453.e0549f8d.chunk.js.map": "/a-proclamation-to-the-world/static/js/453.e0549f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11767055.css",
+    "static/js/main.99a0a4b5.js"
+  ]
+}
