@@ -1,6 +1,7 @@
 import './App.css';
 import scroll from '../src/images/purple-scroll3.png'
 import butterflyImg from '../src/images/butterfly.png'
+import bdaycake from '../src/images/birthday1.png'
 const A_POEM_FOR_MY_LOVE_JINU = {
   0: [
     'A proclamation to the world',
@@ -83,9 +84,12 @@ function App() {
        
        })
        }
+      <img src = {bdaycake} alt="cake"  className = "cake"
+      ></img>
        </div>
       <img src = {scroll} alt="My scroll" className= "scroll"
       ></img>
+  
     </div>
   );
 }
