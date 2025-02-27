@@ -1,5 +1,6 @@
 import './App.css';
 import scroll from '../src/images/purple-scroll3.png'
+import butterflyImg from '../src/images/butterfly.png'
 const A_POEM_FOR_MY_LOVE_JINU = {
   0: [
     'A proclamation to the world',
@@ -54,7 +55,7 @@ function PoemOverlay({text}) {
 function Poem({text}) {
   return <p className="poem">
     <span>
-    <img src = "/butterfly.png" alt="butterfly" className = "butterfly"></img>
+    <img src = {butterflyImg} alt="butterfly" className = "butterfly"></img>
 
     </span>
     {text}
